@@ -1,0 +1,134 @@
+===POLICY_LAPTOP===
+LAPTOP FETCHING POLICY — TechMate Inc.
+
+HOW TO GET YOUR LAPTOP:
+- Visit the IT Help Desk on Floor 2, Room 204 on your first day.
+- Carry your offer letter and government-issued photo ID.
+- Submit the Laptop Requisition Form (LRF-01) available at the front desk.
+- IT will configure your laptop within 2 hours of form submission.
+- You will receive an email at your personal address once the laptop is ready.
+- Laptops come pre-installed with: VS Code, Slack, Zoom, Chrome, Microsoft Office.
+- For Mac requests, submit a written justification to your manager before day 1.
+- Accessories like mouse and keyboard are available on request at IT desk.
+- Laptop insurance form must be signed before taking the device.
+- Report any hardware issues to it-support@techmate.com within 24 hours.
+
+LAPTOP RETURN POLICY:
+- Laptops must be returned within 2 days of last working day.
+- Data will be wiped upon return — back up your work to company cloud.
+
+===POLICY_LOGIN===
+LOGIN AND SYSTEM ACCESS POLICY — TechMate Inc.
+
+HOW TO GET YOUR LOGIN CREDENTIALS:
+- Your corporate email (firstname.lastname@techmate.com) is created by HR on Day 1.
+- A temporary password is sent to your personal email ID provided in the joining form.
+- You must change your password within 24 hours of first login.
+- Password must be 12+ characters with uppercase, lowercase, number, and symbol.
+- For VPN access, download GlobalProtect from the IT portal (it.techmate.com).
+- VPN credentials are the same as your corporate login.
+- For Jira, Confluence, and GitHub access, raise a request in the IT portal under "Access Requests".
+- Access to production systems requires manager approval and is granted after 30 days.
+- Multi-factor authentication (MFA) is mandatory — set it up using Microsoft Authenticator.
+- For login issues, call the IT helpline: 1800-TECH-HELP or email it-support@techmate.com.
+- Shared credentials are strictly prohibited and a policy violation.
+- Your corporate email can be accessed via outlook.office.com from any device.
+
+===POLICY_CANTEEN===
+CANTEEN AND FOOD POLICY — TechMate Inc.
+
+CANTEEN TIMINGS:
+- Breakfast: 8:00 AM to 10:00 AM
+- Lunch: 12:00 PM to 2:30 PM
+- Evening Snacks: 4:30 PM to 5:30 PM
+- The canteen is located on Floor 1, east wing.
+
+HOW IT WORKS:
+- All employees get a Meal Card loaded with Rs. 3000 per month.
+- The Meal Card is issued by HR on Day 1 along with your ID card.
+- Swipe your Meal Card at the billing counter to pay.
+- Additional top-up can be done via the MealPay app (available on App Store and Play Store).
+- Guest meals must be pre-approved by your manager and cost is deducted from your account.
+- Outside food delivery is allowed only at the reception area, not at your desk.
+- Special diet requirements (vegan, diabetic, gluten-free) can be registered with canteen@techmate.com.
+- Friday is Theme Lunch Day — different cuisine each week, free for all employees.
+- The canteen follows a no-waste policy — take only what you will eat.
+
+===POLICY_LEAVE===
+LEAVE POLICY — TechMate Inc.
+
+TYPES OF LEAVE:
+- Casual Leave (CL): 12 days per year. Max 3 consecutive days. No carry forward.
+- Sick Leave (SL): 12 days per year. Medical certificate required after 2 days. Carry forward up to 30 days.
+- Earned Leave (EL): 18 days per year. Minimum 3 days per application. 7 days advance notice required. Not available during probation.
+- Maternity Leave: 182 days paid. Requires 4 weeks advance notice.
+- Paternity Leave: 5 days paid. Must be taken within 30 days of child birth.
+- Bereavement Leave: 5 days for immediate family (spouse, children, parents, siblings).
+- Comp-Off: Must be used within 30 days of the working day. Cannot be encashed.
+
+APPROVAL:
+- 1 to 3 days: Reporting Manager approval.
+- 4 to 7 days: Reporting Manager and Department Head.
+- 8+ days: Reporting Manager, Department Head, and HR.
+
+IMPORTANT FOR NEW JOINERS:
+- Earned leave is not available during your 6-month probation period.
+- Casual leave can be availed from Day 1 with manager approval.
+- Leave must be applied on the HR portal at hr.techmate.com.
+
+===POLICY_SLANGS===
+OFFICE SLANGS AND CULTURE GUIDE — TechMate Inc.
+
+Welcome to TechMate! Here are common slangs and terms you will hear around the office:
+
+TM: Short for TechMate. When someone says "TM culture" they mean the company's work style and values.
+True TM: A fully onboarded, culture-fit employee who knows the ropes. Your goal is to become a True TM!
+Standup: The daily 15-minute team meeting (usually 9:30 AM) where everyone shares what they did yesterday, what they plan to do today, and any blockers.
+Blocker: Something stopping you from completing your work. Always raise blockers in standup early.
+LGTM: Looks Good To Me. Used in code reviews or approvals to mean you approve something.
+OOO: Out Of Office. You will see this in email auto-replies when someone is on leave.
+ETA: Estimated Time of Arrival. Used to ask or tell when something will be done. "What is the ETA on that feature?"
+PR: Pull Request. A request to merge your code changes into the main codebase. Needs review and LGTM before merging.
+Sprint: A 2-week work cycle in Agile methodology. Each sprint has specific goals and deliverables.
+Retro: Short for Retrospective. A meeting at the end of each sprint where the team discusses what went well, what did not, and improvements.
+Grooming: Sprint planning session where tasks (called tickets or stories) are discussed, estimated, and assigned.
+Ping: To send someone a quick message on Slack. "Ping me when you are free."
+EOD: End Of Day. "Please send the report by EOD" means by 6 PM.
+EOM: End Of Month. Deadlines that fall at month end.
+WFH: Work From Home. TechMate allows 2 WFH days per week after probation.
+Async: Asynchronous communication — not in real time. Slack messages, emails, and comments are async.
+Sync: Synchronous communication — in real time. Calls and meetings are sync.
+Deep Work: Focused, uninterrupted work time. Many teams block 10 AM to 12 PM as deep work hours — avoid meetings or pings during this time.
+Onboarding Buddy: Every new joiner is assigned a buddy from the team to help them settle in. Your buddy is your first point of contact for any questions.
+Town Hall: A company-wide meeting held every quarter where leadership shares updates on company performance, strategy, and culture.
+Kudos: Public recognition given to a colleague for great work. Posted in the #kudos Slack channel.
+Ship It: To release or deploy a feature or product. "We are going to ship it by Friday."
+Dogfooding: Using your own product internally before releasing to customers.
+War Room: An emergency situation where the team gathers (physically or virtually) to fix a critical issue fast.
+
+===POLICY_HR===
+HR AND ONBOARDING CHECKLIST — TechMate Inc.
+
+YOUR ONBOARDING CHECKLIST (Steps to become a True TM):
+1. Collect your ID card from HR on Day 1 — Room 101, HR Office.
+2. Sign all joining documents with HR.
+3. Collect your Meal Card from HR.
+4. Visit IT Desk (Room 204) to collect your laptop.
+5. Set up your corporate email and change your password.
+6. Set up MFA (Microsoft Authenticator) on your phone.
+7. Install VPN (GlobalProtect) and test connectivity.
+8. Join your team Slack workspace and introduce yourself in #introductions.
+9. Attend mandatory compliance training (link sent to your email on Day 1).
+10. Meet your Onboarding Buddy — they will reach out to you on Slack.
+11. Attend your first Standup meeting with your team.
+12. Complete your profile on the HR portal (hr.techmate.com).
+13. Apply for tool access (Jira, GitHub, Confluence) via IT portal.
+14. Read the TechMate Code of Conduct (available on the HR portal).
+15. Complete your 30-day check-in with your manager.
+
+IMPORTANT CONTACTS:
+- HR Helpdesk: hr@techmate.com | Floor 1, Room 101
+- IT Support: it-support@techmate.com | Floor 2, Room 204 | 1800-TECH-HELP
+- Canteen: canteen@techmate.com | Floor 1, East Wing
+- Your Manager: Assigned on Day 1 and visible on the HR portal.
+- Onboarding Buddy: Assigned on Day 1 via Slack.
